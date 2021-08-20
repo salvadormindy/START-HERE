@@ -18,4 +18,6 @@ Pull-requests will be viewed daily, I will then add you as a collaborater so you
 
 [6.] Rose, Connor, 92 OMRS, connor-rose
 
+[7.] Salvador, Mindy, 92 FSS, salvadormindy
+
 - For a guide to sign up visit this link: https://bit.ly/FCSignUpTutorial
